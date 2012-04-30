@@ -29,3 +29,9 @@ Heroku SSO by testing it with kensa
 ```console
   kensa sso 3865
 ```
+
+=== Contributing
+
+Issues and Pull Requests are welcome! This code is very preliminary and I got it up and working for my 
+project. There are a number of things that I don't love but I wanted to put this out there to benefit 
+others.
